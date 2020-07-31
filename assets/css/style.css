@@ -2,6 +2,8 @@ html {
   scroll-behavior: smooth;
 }
 
+
+/* Home Page */
 .standard-padding {
   padding: 4% 10%;
 }
@@ -26,3 +28,29 @@ html {
 .front-text {
   padding-top: 10%;
 }
+
+
+/* Features */
+.benefits {
+  padding-bottom: 3%;
+}
+
+#features i {
+  padding-bottom: 6%;
+}
+
+#features p {
+  font-size: 1.1rem;
+  color: lightgrey;
+}
+
+#features h3 {
+  font-size: 2rem;
+}
+
+/* Pricing */
+#pricing h1 {
+  font-size: 3rem;
+}
+
+#pricin
