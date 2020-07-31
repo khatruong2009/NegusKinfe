@@ -53,4 +53,12 @@ html {
   font-size: 3rem;
 }
 
-#pricin
+.card-text {
+  font-size: 1.5rem;
+}
+
+.price {
+  font-size: 4rem;
+}
+
+/* Footer */
