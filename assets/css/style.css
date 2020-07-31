@@ -66,6 +66,12 @@ html {
 }
 
 /* Footer */
+#footer div {
+  padding: 1%;
+}
+
+
+
 @media screen and (max-width: 480px) {
   #front-image {
     width: 100%;
