@@ -25,6 +25,10 @@ html {
   max-width: 70%;
 }
 
+.pic-right {
+  text-align: right;
+}
+
 .front-text {
   padding-top: 10%;
 }
@@ -62,3 +66,16 @@ html {
 }
 
 /* Footer */
+@media screen and (max-width: 480px) {
+  #front-image {
+    width: 100%;
+  }
+
+ .pic-right {
+   text-align: center;
+ }
+
+ .home-container p {
+   text-align: center;
+ }
+}
