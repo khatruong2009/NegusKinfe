@@ -1,0 +1,28 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.standard-padding {
+  padding: 4% 10%;
+}
+
+.home-container h1 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.home-container h3 {
+  font-size: 2rem;
+}
+
+.home-container p {
+  font-size: 1.5rem;
+}
+
+#front-image {
+  max-width: 70%;
+}
+
+.front-text {
+  padding-top: 10%;
+}
